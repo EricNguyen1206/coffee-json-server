@@ -1,0 +1,160 @@
+{
+  "images": {
+    "logo": "https://www.pngkit.com/png/full/110-1101179_logo-coffee-bean-coffee-bean-tea-lea-gift.png",
+    "home-banner": "https://darkcanyon-coffee.com/wp-content/uploads/2020/03/banner01.jpg",
+    "about-banner": "https://media.istockphoto.com/photos/pouring-coffee-with-smoke-on-a-cup-and-coffee-beans-on-burlap-sack-on-picture-id1220101964?k=20&m=1220101964&s=612x612&w=0&h=fnYYx5_HqDXH67Gyr5ln7tCnA1pRJ6t599gODFNzJd8="
+  },
+  "cart": [
+    {
+      "id": "cart-item1",
+      "name": "cart-item1",
+      "image": "http://cdn.shopify.com/s/files/1/0462/8021/2633/products/Espresso-Roast-Blend-Coffee-Coffee-Bean-_-Tea-Leaf-Store-1619088887_1200x1200.jpg?v=1619088888",
+      "price": 15.99
+    },
+    {
+      "id": "cart-item2",
+      "name": "cart-item2",
+      "image": "http://cdn.shopify.com/s/files/1/0462/8021/2633/products/Espresso-Roast-Blend-Coffee-Coffee-Bean-_-Tea-Leaf-Store-1619088887_1200x1200.jpg?v=1619088888",
+      "price": 13.99
+    },
+    {
+      "id": "cart-item3",
+      "name": "cart-item3",
+      "image": "http://cdn.shopify.com/s/files/1/0462/8021/2633/products/Espresso-Roast-Blend-Coffee-Coffee-Bean-_-Tea-Leaf-Store-1619088887_1200x1200.jpg?v=1619088888",
+      "price": 15.49
+    },
+    {
+      "id": "cart-item4",
+      "name": "cart-item4",
+      "image": "http://cdn.shopify.com/s/files/1/0462/8021/2633/products/Espresso-Roast-Blend-Coffee-Coffee-Bean-_-Tea-Leaf-Store-1619088887_1200x1200.jpg?v=1619088888",
+      "price": 19.99
+    }
+  ],
+  "best-selling": [
+    {
+      "id": "best-1",
+      "image": "https://cdn.luxe.digital/media/2020/05/07150229/best-coffee-beans-brands-stone-street-tanzanian-luxe-digital.jpg",
+      "name": "Stone Street - 10% peaberry",
+      "price": 15.99,
+      "old-price": 20.99,
+      "left": 15
+    },
+    {
+      "id": "best-2",
+      "image": "https://cdn.luxe.digital/media/2021/09/24103140/best-coffee-beans-brands-budget-real-good-review-luxe-digital%402x.jpg",
+      "name": "Real Good Coffee - 100% Arabica",
+      "price": 15.99,
+      "old-price": 20.99,
+      "left": 100
+    },
+    {
+      "id": "best-3",
+      "image": "https://cdn.luxe.digital/media/2020/05/07150235/best-coffee-beans-brands-whole-death-wish-luxe-digital.jpg",
+      "name": "Death Wish Coffee - double the caffeine",
+      "price": 15.99,
+      "old-price": 20.99,
+      "left": 0
+    }
+  ],
+  "products": [
+    {
+      "id": "product-1",
+      "image": "http://file.hstatic.net/1000275031/file/b_n_v__c__ph__phin_v__c_c_th_y_tinh_grande.jpeg",
+      "title": "tasty and healty",
+      "price": 11.99,
+      "old-price": 20.99
+    },
+    {
+      "id": "product-2",
+      "image": "https://cf.shopee.vn/file/d8c21c95aa7232fc0aea144f80e3ee53_tn",
+      "title": "tasty and healty",
+      "price": 12.99,
+      "old-price": 20.99
+    },
+    {
+      "id": "product-3",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDBoJDABcMQEefn6yIpOerMqbLkCJx1r4VJQ&usqp=CAU",
+      "title": "tasty and healty",
+      "price": 13.99,
+      "old-price": 20.99
+    },
+    {
+      "id": "product-4",
+      "image": "https://cdn.shopify.com/s/files/1/0522/1285/products/Coffee_EspressoMocha_Shot_1_c3c926f2-db33-466e-91ea-c5eedf06f1e5_1200x.jpg?v=1588429868",
+      "title": "tasty and healty",
+      "price": 4.99,
+      "old-price": 20.99
+    },
+    {
+      "id": "product-5",
+      "image": "https://cf.shopee.vn/file/e75f51a36bbe5928dea4e4930cb97fb3",
+      "title": "tasty and healty",
+      "price": 15.99,
+      "old-price": 20.99
+    },
+    {
+      "id": "product-6",
+      "image": "https://i5.walmartimages.com/asr/9d4453ae-393d-4f44-b56b-7319debf8f16_1.13ce8227489c81f062d45bd523edc256.jpeg",
+      "title": "tasty and healty",
+      "price": 156.99,
+      "old-price": 20.99
+    },
+    {
+      "id": "product-7",
+      "image": "http://cdn.shopify.com/s/files/1/0462/8021/2633/products/Espresso-Roast-Blend-Coffee-Coffee-Bean-_-Tea-Leaf-Store-1619088887_1200x1200.jpg?v=1619088888",
+      "title": "tasty and healty",
+      "price": 17.99,
+      "old-price": 20.99
+    },
+    {
+      "id": "product-8",
+      "image": "https://cdn.shopify.com/s/files/1/1223/7682/products/ARTISAN_PACKETS_1024x1024.jpg?v=1551281949",
+      "title": "tasty and healty",
+      "price": 8.99,
+      "old-price": 20.99
+    }
+  ],
+  "reviews": [
+    {
+      "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi nulla sit libero nemo fuga sequi nobis? Necessitatibus aut laborum, nisi quas eaque laudantium consequuntur iste ex aliquam minus vel? Nemo.",
+      "avatar": "./images/pic-1.png",
+      "name": "Will Smith",
+      "star": 5
+    },
+    {
+      "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi nulla sit libero nemo fuga sequi nobis? Necessitatibus aut laborum, nisi quas eaque laudantium consequuntur iste ex aliquam minus vel? Nemo.",
+      "avatar": "./images/pic-2.png",
+      "name": "Alena Grande",
+      "star": 4
+    },
+    {
+      "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi nulla sit libero nemo fuga sequi nobis? Necessitatibus aut laborum, nisi quas eaque laudantium consequuntur iste ex aliquam minus vel? Nemo.",
+      "avatar": "./images/pic-3.png",
+      "name": "John Cena",
+      "star": 4.5
+    }
+  ],
+  "blogs": [
+    {
+      "image": "../images/blog-1.jpeg",
+      "title": "tasty and refreshing coffee",
+      "author": "admin",
+      "export-date": "Fri Oct 01 2021",
+      "introduction": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dicta."
+    },
+    {
+      "image": "../images/blog-2.jpeg",
+      "title": "tasty and refreshing coffee",
+      "author": "admin",
+      "export-date": "Mon Oct 04 2021",
+      "introduction": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dicta."
+    },
+    {
+      "image": "../images/blog-3.jpeg",
+      "title": "tasty and refreshing coffee",
+      "author": "admin",
+      "export-date": "Fri Oct 08 2021",
+      "introduction": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dicta."
+    }
+  ]
+}
