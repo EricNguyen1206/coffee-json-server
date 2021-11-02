@@ -6,28 +6,10 @@
   },
   "cart": [
     {
-      "id": "cart-item1",
-      "name": "cart-item1",
-      "image": "http://cdn.shopify.com/s/files/1/0462/8021/2633/products/Espresso-Roast-Blend-Coffee-Coffee-Bean-_-Tea-Leaf-Store-1619088887_1200x1200.jpg?v=1619088888",
-      "price": 15.99
-    },
-    {
-      "id": "cart-item2",
-      "name": "cart-item2",
-      "image": "http://cdn.shopify.com/s/files/1/0462/8021/2633/products/Espresso-Roast-Blend-Coffee-Coffee-Bean-_-Tea-Leaf-Store-1619088887_1200x1200.jpg?v=1619088888",
-      "price": 13.99
-    },
-    {
-      "id": "cart-item3",
-      "name": "cart-item3",
-      "image": "http://cdn.shopify.com/s/files/1/0462/8021/2633/products/Espresso-Roast-Blend-Coffee-Coffee-Bean-_-Tea-Leaf-Store-1619088887_1200x1200.jpg?v=1619088888",
-      "price": 15.49
-    },
-    {
-      "id": "cart-item4",
-      "name": "cart-item4",
-      "image": "http://cdn.shopify.com/s/files/1/0462/8021/2633/products/Espresso-Roast-Blend-Coffee-Coffee-Bean-_-Tea-Leaf-Store-1619088887_1200x1200.jpg?v=1619088888",
-      "price": 19.99
+      "id": "product-1",
+      "name": "tasty and healty",
+      "image": "http://file.hstatic.net/1000275031/file/b_n_v__c__ph__phin_v__c_c_th_y_tinh_grande.jpeg",
+      "price": 11.99
     }
   ],
   "best-selling": [
