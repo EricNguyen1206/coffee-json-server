@@ -9,7 +9,8 @@
       "id": "product-1",
       "name": "tasty and healty",
       "image": "http://file.hstatic.net/1000275031/file/b_n_v__c__ph__phin_v__c_c_th_y_tinh_grande.jpeg",
-      "price": 11.99
+      "price": 11.99,
+      "amount": 1
     }
   ],
   "best-selling": [
